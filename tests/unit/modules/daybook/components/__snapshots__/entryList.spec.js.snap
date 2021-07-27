@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el EntryList debe de llamar el getEntriesByTerm sin termino y mostrar 2 entradas 1`] = `
+<div class="entry-list-container">
+  <div class="px-2 pt-2"><input type="text" class="form-control" placeholder="Buscar entrada"></div>
+  <div class="mt-2 d-flex flex-column"><button class="btn btn-primary mx-3"><i class="fa fa-plus-circle"></i> Nueva entrada </button></div>
+  <div class="entry-scrollarea">
+    <entry-stub entry="[object Object]"></entry-stub>
+    <entry-stub entry="[object Object]"></entry-stub>
+  </div>
+</div>
+`;

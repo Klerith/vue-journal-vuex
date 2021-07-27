@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el About View debe de renderizar el componente correctamente 1`] = `
+<div class="about">
+  <h1>This is an about page</h1>
+</div>
+`;
