@@ -42,8 +42,8 @@ setup() {
     const { loginUser } = useAuth()
 
     const userForm = ref({
-        email: 'fernando@gmail.com',
-        password: '123456',
+        email: '',
+        password: '',
     })
 
 

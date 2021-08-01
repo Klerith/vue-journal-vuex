@@ -28,7 +28,6 @@ export default {
         const router = useRouter()
         const { username, logout } = useAuth()
 
-
         return {
             username,
             onLogout: () => {
